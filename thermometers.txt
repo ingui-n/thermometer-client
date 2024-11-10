@@ -1,0 +1,8 @@
+Temperature sensors and their deviations:
+
+3v      ground  GPIO    measuredstatus
+white	black	brown	20.94	ok
+red     black	brown	21.00	ok
+purple	grey	white	21.3	-.30
+purple	white	blue	20.69	+.30
+orange  green	yellow	21.25	-.25
